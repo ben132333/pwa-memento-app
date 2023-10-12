@@ -6,7 +6,7 @@ warning in VSCode,change the css.lint.unknownAtRules setting to ignore. */
   --text: #f66936;
   --card: #ffffff;
   --orange: #ffa200;
-  --bg: linear-gradient(135deg, #fc2473, #f66936);
+  --bg: linear-gradient(135deg, #666666, #000000);
 
   --delay: 200ms;
   --rotate-0: rotateY(0deg);
